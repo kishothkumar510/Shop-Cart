@@ -1,0 +1,6 @@
+{
+  "name": "ShopCart",
+  "description": "ShopCart - Online store for Home Appliances & Groceries in Indian Rupees (₹) with JWT authentication, live demo login, persistent shopping cart, Stripe sandbox checkout, and real-time inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
